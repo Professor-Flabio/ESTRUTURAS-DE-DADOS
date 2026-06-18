@@ -19,8 +19,6 @@ Esta seção descreve a engenharia de software utilizada no projeto, destacando 
     
 🚀 Análise das Funcionalidades Principais.
 
-
-
   > O sistema foi modularizado em funções dedicadas, onde cada algoritmo resolve um problema específico de logística urbana:
   
 📂 Carga Dinâmica de Dados (carregarGrafo)
